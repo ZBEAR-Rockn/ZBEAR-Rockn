@@ -1,18 +1,22 @@
-🌱🌱 If this add-on was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel !!:
-🌱🌱 https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ    ###Let's Rock
-
-
-![case1_1](https://user-images.githubusercontent.com/86638301/124344076-5d1f1080-dc0b-11eb-908e-4464733a749f.gif)
-< Weirdly Weighted Result by Some Automatic Weighting Techniques >
-
-
 - ZBEAR's Weight Smacher_v_01_08 for Blender(v 2.9x)
 - Download .zip or .py and go to bledner -> preferences -> Addons -> Install -> Find downloaded .zip or .py and select it -> OK -> Check the Add-on's check-box searched by keyword like 'zb' or 'wei' -> Use it 
+
+- 🤘 &nbsp;&nbsp; If this add-on was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel. Let's Rock 
+- (☞ﾟヮﾟ)☞ &nbsp;&nbsp;  https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ 
+
+<.. Heavy Metallically Shocked / Weirdly Weighted Result by Some Automatic Weighting Techniques or Hand Weighting Works >
+
+![case1_1](https://user-images.githubusercontent.com/86638301/124344076-5d1f1080-dc0b-11eb-908e-4464733a749f.gif)
+
+<'' Heavy Metallically Shocked / Weirdly Weighted Result by Some Automatic Weighting Techniques or Hand Weighting Works >
+
+
+
 👀
 👀
 - A good loop phrase in code can change the world.
 - A hard rock album can change the world. => ZBEAR Hard Rock Albums on Internet
-- - 👀 Studying and applying CG graphics for the better Hard Rocking out
+- 👀 Studying and applying CG graphics for the better Hard Rocking out
 - 🌱 python - bpy simple scripting, Add-on development, CG works for Hard Rocking out using Blender
 - 👋 ZBEAR, Hard Rock Guitarist, Album Unfinished Fight 1, 2
 - 📫 zorzybear@gmail.com, www.zbear.co.kr
