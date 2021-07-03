@@ -1,8 +1,8 @@
 - A good loop phrase in code can change the world.
 - A hard rock album can change the world. => ZBEAR Hard Rock Albums on Internet
-- 👋 ZBEAR, Hard Rock Guitarist, Album Unfinished Fight 1, 2
-- 👀 Studying and applying CG graphics for the better Hard Rocking out
+- - 👀 Studying and applying CG graphics for the better Hard Rocking out
 - 🌱 python - bpy simple scripting, Add-on development, CG works for Hard Rocking out using Blender
+- 👋 ZBEAR, Hard Rock Guitarist, Album Unfinished Fight 1, 2
 - 📫 zorzybear@gmail.com, www.zbear.co.kr
 
 <!---
