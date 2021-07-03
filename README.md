@@ -75,16 +75,17 @@ The mesh part which is confused by the various cases and operates is registered 
 
 ⚡⚡ !! Cautions
 
-When certain vertexes do not respond to the addons seen:
+When certain vertexes do not respond to the addon's operation or pop out :
 
-Most of the vertex groups that have already been used are reused as reset groups, but there are times when one or two points can not be processed or mishandled.
+- Most of the vertex groups that have already been used are able to be reused as a target-group again, but sometimes one or two points can't be processed or mis-handled.
 
-: In that case, the vertex group for the reset used is abandoned and reconfigured and executed, and most of it is solved.
+: In that case, through the way that you abandone or reconfigure the used vertex group for resetting a weirdly weighted part of the mesh, most cases related with this problem can be solved.
 
-The cause of this phenomenon may be the bug of your hand that included the vertex in the unconscious, the bug of certain Automatic Weight Solutions, or the bug of the inside of the blender, or the bug of my code.
+- The reason of this phenomenon may be the bug of your hand that included some unrelated vertexes when you're in the unconscious, or the bug of certain Automatic Weight Solutions, or the bug from the inside of the blender, or the bug of my code.
 
-When creating a vertex group to reset, be careful that unrelated vertex is unknowingly included due to mouse clicks, etc.
-In this case, one vertex in question can pop out of the unwanted place after execution.This is because the vertex is in the vertex group to be reset, so the weight information is initialized together.
+- When creating a vertex group to reset, be careful that unrelated vertex is unknowingly included due to unconscious mouse clicks, etc.
+
+: In this case, that one vertex can pop out to the unwanted place after execution. This is because the weight information is initialized together while the vertex is in the group to be reset and the bone you selected has no interesting for this vertex.
 
 
 - A good loop phrase in code can change the world.
