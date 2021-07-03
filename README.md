@@ -1,5 +1,5 @@
 - ZBEAR's Weight Resetter_v_01_08 for Blender(v 2.9x)
-- Download .zip or .py and go to bledner -> preferences -> Addons -> Install -> Find downloaded .zip or .py and select it -> OK -> Check the Add-on's check-box searched by keyword like 'zb' or 'wei' -> Use it 
+- Download .zip or .py and go to blender -> preferences -> Addons -> Install -> Find downloaded .zip or .py and select it -> OK -> Check the Add-on's check-box searched by keyword like 'zb' or 'wei' -> Use it 
 
 - 🤘 &nbsp;&nbsp; If this add-on was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel. Let's Rock 
 - (☞ﾟヮﾟ)☞ &nbsp;&nbsp;  https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ 
