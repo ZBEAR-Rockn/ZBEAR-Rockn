@@ -48,10 +48,9 @@ The mesh part which is confused by the various cases and operates is registered 
 - Even doing one more action with Ctrl + Bone clicking is disgustingly tired and mentally painful
 
 
-
 - A good loop phrase in code can change the world.
 - A hard rock album can change the world. => ZBEAR Hard Rock Albums on Internet
-- - 👀 Studying and applying CG graphics for the better Hard Rocking out
+- 👀 Studying and applying CG graphics for the better Hard Rocking out
 - 🌱 python - bpy simple scripting, Add-on development, CG works for Hard Rocking out using Blender
 - 👋 ZBEAR, Hard Rock Guitarist, Album Unfinished Fight 1, 2
 - 📫 zorzybear@gmail.com, www.zbear.co.kr
