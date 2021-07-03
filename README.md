@@ -1,4 +1,5 @@
 - ZBEAR's Weight Resetter_v_01_08 for Blender(v 2.9x)
+- Direct Link to Addon's page : https://github.com/ZBEAR-Rockn/Hard_Rocking_Codes.git
 - Download .zip or .py and go to blender -> preferences -> Addons -> Install -> Find downloaded .zip or .py and select it -> OK -> Check the Add-on's check-box searched by keyword like 'zb' or 'wei' -> Use it 
 
 - 🤘 &nbsp;&nbsp; If this add-on was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel. Let's Rock 
