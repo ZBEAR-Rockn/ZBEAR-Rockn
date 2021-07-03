@@ -1,14 +1,15 @@
-- ZBEAR's Weight Smacher_v_01_08 for Blender(v 2.9x)
+- ZBEAR's Weight Resetter_v_01_08 for Blender(v 2.9x)
 - Download .zip or .py and go to bledner -> preferences -> Addons -> Install -> Find downloaded .zip or .py and select it -> OK -> Check the Add-on's check-box searched by keyword like 'zb' or 'wei' -> Use it 
 
 - 🤘 &nbsp;&nbsp; If this add-on was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel. Let's Rock 
 - (☞ﾟヮﾟ)☞ &nbsp;&nbsp;  https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ 
 
-<.. Heavy Metallically Shocked / Weirdly Weighted Result by Some Automatic Weighting Techniques or Hand Weighting Works >
+<br></br>
+< Heavy Metallically Shocked / Weirdly Weighted Result by Some Automatic Weighting Techniques or Hand Weighting Works >
 
 ![case1_1](https://user-images.githubusercontent.com/86638301/124344076-5d1f1080-dc0b-11eb-908e-4464733a749f.gif)
 
-<'' Heavy Metallically Shocked / Weirdly Weighted Result by Some Automatic Weighting Techniques or Hand Weighting Works >
+< Heavy Metallically Shocked / Weirdly Weighted Result by Some Automatic Weighting Techniques or Hand Weighting Works >
 
 
 
@@ -28,7 +29,7 @@ A good loop phrase can change the world.
 A rock sound with some meaning can change the world.
 => zbear on internet
 
-👋Use of this tool:
+👋 Guide lines of this tool:
 
 📫 Description Viewpoint A : Public service performance style
 
@@ -71,6 +72,19 @@ The mesh part which is confused by the various cases and operates is registered 
 - When using weight painting mode and even if you still clicking Ctrl + LMB on each bones for more than 40 minutes but there is no better
 
 - Even doing one more action with Ctrl + Bone clicking is disgustingly tired and mentally painful
+
+⚡⚡ !! Cautions
+
+When certain vertexes do not respond to the addons seen:
+
+Most of the vertex groups that have already been used are reused as reset groups, but there are times when one or two points can not be processed or mishandled.
+
+: In that case, the vertex group for the reset used is abandoned and reconfigured and executed, and most of it is solved.
+
+The cause of this phenomenon may be the bug of your hand that included the vertex in the unconscious, the bug of certain Automatic Weight Solutions, or the bug of the inside of the blender, or the bug of my code.
+
+When creating a vertex group to reset, be careful that unrelated vertex is unknowingly included due to mouse clicks, etc.
+In this case, one vertex in question can pop out of the unwanted place after execution.This is because the vertex is in the vertex group to be reset, so the weight information is initialized together.
 
 
 - A good loop phrase in code can change the world.
