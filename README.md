@@ -1,7 +1,7 @@
 - ZBEAR's Weight Smacher_v_01_08 for Blender(v 2.9x)
 - Download .zip or .py and go to bledner -> preferences -> Addons -> Install -> Find downloaded .zip or .py and select it -> OK -> Check the Add-on's check-box searched by keyword like 'zb' or 'wei' -> Use it 
-- 
-
+👀
+👀
 - A good loop phrase in code can change the world.
 - A hard rock album can change the world. => ZBEAR Hard Rock Albums on Internet
 - - 👀 Studying and applying CG graphics for the better Hard Rocking out
@@ -10,7 +10,7 @@
 - 📫 zorzybear@gmail.com, www.zbear.co.kr
 
 
-👀 More Details about this add-on: 
+🌱 More Details about this add-on: 
 
 A good loop phrase can change the world.
 A rock sound with some meaning can change the world.
