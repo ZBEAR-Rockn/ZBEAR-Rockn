@@ -1,5 +1,5 @@
-🌱🌱 If this add-on was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel !!: 
-🌱🌱 https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ
+🌱🌱 If this add-on was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel !!:
+🌱🌱 https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ    ###Let's Rock
 
 
 ![case1_1](https://user-images.githubusercontent.com/86638301/124344076-5d1f1080-dc0b-11eb-908e-4464733a749f.gif)
