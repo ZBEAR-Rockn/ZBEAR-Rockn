@@ -1,5 +1,7 @@
 🌱🌱 If this works was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel !!: 
 🌱🌱 https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ
+
+
 ![case1_1](https://user-images.githubusercontent.com/86638301/124344076-5d1f1080-dc0b-11eb-908e-4464733a749f.gif)
 < Weirdly Weighted Result by Some Automatic Weighting Techniques >
 
