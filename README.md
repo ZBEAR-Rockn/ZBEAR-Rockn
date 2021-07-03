@@ -1,4 +1,4 @@
-🌱🌱 If this works was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel !!: 
+🌱🌱 If this add-on was helpful for you, Please Subscribe ZBEAR's Hard Rock YouTube Channel !!: 
 🌱🌱 https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ
 
 
