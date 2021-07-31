@@ -1,8 +1,8 @@
 - ZBEAR's Weight Resetter_v_01_08 for Blender(v 2.9x)
-- Direct Link to Addon's page : https://github.com/ZBEAR-Rockn/Hard_Rocking_Codes.git
+  - Direct Link to Addon's page : https://github.com/ZBEAR-Rockn/Hard_Rocking_Codes.git
 
 - ZBEAR's Drag N' Drop Importer v2.93 for Blender(v 2.9x)
-- Direct Link to Addon's page : https://github.com/ZBEAR-Rockn/Hard_Rocking_Codes_2
+  - Direct Link to Addon's page : https://github.com/ZBEAR-Rockn/Hard_Rocking_Codes_2
 
 - A good loop phrase in code can change the world.
 - A hard rock album can change the world. => ZBEAR Hard Rock Albums on Internet
