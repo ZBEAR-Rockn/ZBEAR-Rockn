@@ -11,7 +11,7 @@
 - 👋 ZBEAR, Hard Rock Guitarist, Album Unfinished Fight 1, 2
 - 📫 zorzybear@gmail.com, 
 - 
-🌱🌱 If this works was helpful for you, Please Subscribe ZBEAR's YouTube Channel !!: 
+🌱🌱 If these works was helpful for you, Please Subscribe ZBEAR's YouTube Channel !!: 
 🌱🌱 https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ
 - 
 - www.zbear.co.kr
